@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">GroupProject4520Kroo</string>
+    <string name="textUsername">username</string>
+    <string name="textPassword">password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonRegister">Register</string>
+    <string name="textEvents">Events</string>
+    <string name="textGroups">Groups</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textMyEvents">My Events:</string>
+    <string name="buttonAdd">Add</string>
+    <string name="textMyGroups">My Groups:</string>
+    <string name="textCreateEvent">Create New Event</string>
+    <string name="textName">Name</string>
+    <string name="textDescription">Description</string>
+    <string name="textDateTime"><![CDATA[Date & Time]]></string>
+    <string name="textAddPeople">Add People</string>
+    <string name="seeInvited">See Invited People</string>
+    <string name="Confirm">Confirm</string>
 </resources>
