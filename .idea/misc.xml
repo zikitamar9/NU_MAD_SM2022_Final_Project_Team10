@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/activity_landing.xml" value="0.40217391304347827" />
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/activity_login.xml" value="0.40217391304347827" />
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/activity_main.xml" value="0.4041666666666667" />
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/activity_make_event.xml" value="0.4041666666666667" />
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/fragment_events.xml" value="0.4041666666666667" />
-        <entry key="..\:/Users/Nop/StudioProjects/CS4520_Kroo/app/src/main/res/layout/fragment_groups.xml" value="0.39010416666666664" />
+        <entry key="app/src/main/res/drawable/maps.xml" value="0.218" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/activity_landing.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2791666666666667" />
+        <entry key="app/src/main/res/layout/activity_make_event.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_add_people_to_group_page.xml" value="0.2743509928385417" />
+        <entry key="app/src/main/res/layout/fragment_change_profile_picture.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/fragment_event_details.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/fragment_events.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_group_details_page.xml" value="0.23436482747395837" />
+        <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.30512820512820515" />
       </map>
     </option>
   </component>
