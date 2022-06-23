@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/rootRegister"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".inclass08.RegisterFragment">
+
+        <EditText
+            android:id="@+id/editTextRegister_Name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="16dp"
+            android:ems="10"
+            android:hint="Name"
+            android:inputType="textPersonName"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editTextRegister_Email"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textEmailAddress"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="@+id/editTextRegister_Name"
+            app:layout_constraintStart_toStartOf="@+id/editTextRegister_Name"
+            app:layout_constraintTop_toBottomOf="@+id/editTextRegister_Name" />
+
+        <EditText
+            android:id="@+id/editTextRegister_Password"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="@+id/editTextRegister_Email"
+            app:layout_constraintStart_toStartOf="@+id/editTextRegister_Email"
+            app:layout_constraintTop_toBottomOf="@+id/editTextRegister_Email" />
+
+        <EditText
+            android:id="@+id/editTextRegister_Rep_Password"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:ems="10"
+            android:hint="Repeat Password"
+            android:inputType="textPassword"
+            android:minHeight="48dp"
+            app:layout_constraintEnd_toEndOf="@+id/editTextRegister_Password"
+            app:layout_constraintStart_toStartOf="@+id/editTextRegister_Password"
+            app:layout_constraintTop_toBottomOf="@+id/editTextRegister_Password" />
+
+        <Button
+            android:id="@+id/RegisterButton08"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:text="@string/buttonRegister"
+            app:layout_constraintEnd_toEndOf="@+id/editTextRegister_Rep_Password"
+            app:layout_constraintStart_toStartOf="@+id/editTextRegister_Rep_Password"
+            app:layout_constraintTop_toBottomOf="@+id/editTextRegister_Rep_Password" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>
