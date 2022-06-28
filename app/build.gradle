@@ -4,14 +4,7 @@ plugins {
 }
 
 android {
-    signingConfigs {
-        debug {
-            storeFile file('/Users/itamar/Summer 1/CS4520/IZkeystore/IZkeystore2')
-            storePassword 'appia12345'
-            keyAlias 'key0'
-            keyPassword 'appia12345'
-        }
-    }
+
     compileSdk 32
 
     defaultConfig {
