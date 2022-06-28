@@ -3,18 +3,41 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.15" />
+        <entry key="app/src/main/res/drawable/action_button_icon.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/ic_action_button.xml" value="0.172" />
         <entry key="app/src/main/res/drawable/maps.xml" value="0.218" />
         <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.2526041666666667" />
         <entry key="app/src/main/res/layout/activity_landing.xml" value="0.30512820512820515" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.30512820512820515" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2791666666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_make_event.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/event_preview_row.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/layout/fragment_add_people_to_group_page.xml" value="0.2743509928385417" />
         <entry key="app/src/main/res/layout/fragment_change_profile_picture.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/fragment_create_event.xml" value="0.18125" />
+        <entry key="app/src/main/res/layout/fragment_create_group.xml" value="0.21469314010054977" />
+        <entry key="app/src/main/res/layout/fragment_edit_event.xml" value="0.14010416666666667" />
+        <entry key="app/src/main/res/layout/fragment_edit_group.xml" value="0.23148148148148148" />
+        <entry key="app/src/main/res/layout/fragment_edit_profile.xml" value="0.2537037037037037" />
         <entry key="app/src/main/res/layout/fragment_event_details.xml" value="0.2526041666666667" />
+        <entry key="app/src/main/res/layout/fragment_event_preview.xml" value="0.15648148148148147" />
+        <entry key="app/src/main/res/layout/fragment_event_view.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/layout/fragment_events.xml" value="0.30512820512820515" />
         <entry key="app/src/main/res/layout/fragment_group_details_page.xml" value="0.23436482747395837" />
+        <entry key="app/src/main/res/layout/fragment_group_preview.xml" value="0.22407407407407406" />
+        <entry key="app/src/main/res/layout/fragment_group_view.xml" value="0.1685185185185185" />
         <entry key="app/src/main/res/layout/fragment_groups.xml" value="0.30512820512820515" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.24951782226562497" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.24951782226562502" />
+        <entry key="app/src/main/res/layout/fragment_register.xml" value="0.18697916666666667" />
+        <entry key="app/src/main/res/layout/fragment_view_event.xml" value="0.43421630859375004" />
+        <entry key="app/src/main/res/layout/fragment_view_group.xml" value="0.22407407407407406" />
+        <entry key="app/src/main/res/layout/list_event_view_preview.xml" value="0.34017531783492483" />
+        <entry key="app/src/main/res/layout/list_group_view_create_event.xml" value="0.19427083333333334" />
+        <entry key="app/src/main/res/layout/list_group_view_preview.xml" value="0.1685185185185185" />
+        <entry key="app/src/main/res/layout/list_user_view_create_group.xml" value="0.26930694580078124" />
+        <entry key="app/src/main/res/layout/list_view_group_create.xml" value="0.1685185185185185" />
       </map>
     </option>
   </component>

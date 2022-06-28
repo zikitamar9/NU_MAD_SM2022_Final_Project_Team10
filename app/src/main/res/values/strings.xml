@@ -18,4 +18,7 @@
     <string name="textAddPeople">Add People</string>
     <string name="seeInvited">See Invited People</string>
     <string name="Confirm">Confirm</string>
+    <string name="UpdateButton">Update Group</string>
+    <string name="back">Home</string>
+    <string name="changeName">Change Name</string>
 </resources>
